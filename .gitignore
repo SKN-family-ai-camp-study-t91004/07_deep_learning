@@ -19,5 +19,8 @@ __pycache__/
 # dotenv 무시 설정
 .env
 
-models/
+#models/
 catboost_info/
+
+cifar*
+cifar*.*
